@@ -1,6 +1,6 @@
 {
-    "name": "loginauthbloc",
-    "short_name": "loginauthbloc",
+    "name": "bloclogin",
+    "short_name": "bloclogin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

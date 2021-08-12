@@ -1,4 +1,4 @@
-package com.example.loginauthbloc
+package com.example.bloclogin
 
 import io.flutter.embedding.android.FlutterActivity
 

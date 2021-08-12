@@ -1,4 +1,4 @@
-name: loginauthbloc
+name: bloclogin
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -21,14 +21,11 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  bloc: ^7.0.0
   cupertino_icons: ^1.0.2
-  firebase: ^9.0.1
-  firebase_auth: ^3.0.1
-  firebase_core: ^1.4.0
   flutter:
     sdk: flutter
-  provider: ^5.0.0
-  rxdart: ^0.27.1
+  flutter_bloc: ^7.1.0
 
 dev_dependencies:
   flutter_test:
